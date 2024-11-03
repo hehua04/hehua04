@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am in NEFU and majoring in English. So I nearly do not participate in developing but I still learn to do sth. to give issue or PRs to some projects.
+
+I am a radio amateur and my callsign is BG2FZJ, 73.
+
+Other things can see at https://k2cho.me 。 
 <!--
 **hehua04/hehua04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
