@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am in NEFU and majoring in English. So I nearly do not participate in developing but I still learn to do sth. to give issue or PRs to some projects.
+I am in NEFU and majoring in English. So I nearly do not participate in developing but I still learn to do sth. to post issues or give PRs to some projects.
 
 I am a radio amateur and my callsign is BG2FZJ, 73.
 
